@@ -1,0 +1,12 @@
+openai
+langchain_community
+pymysql
+langchain
+langchain_openai
+operator
+langgraph
+ast
+re
+faiss-cpu
+flask 
+streamlit
